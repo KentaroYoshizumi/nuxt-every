@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+.logo {
+  font-family: 'Knewave', cursive;
+  letter-spacing: 3px;
+}
+
+.fancy-title {
+  font-family: 'Knewave', cursive;
+  font-size: 48px;
+}
+
+.signin-layout {
+  background-color: $primary-color;
+}
+
+
+.every-topbar {
+  background-color: $secondary-color;
+}
+
+.every-user {
+  font-size: 8px;
+  margin-bottom: 0px!important;
+  text-align:right;
+}
+
+.every-board-tile {
+  margin: 20px 20px 0px 0px ;
+  .v-card__subtitle {
+    font-size: 8px;
+  }
+}
